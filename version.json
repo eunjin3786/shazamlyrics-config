@@ -1,6 +1,8 @@
 {
   "minimumVersion": "0.0.0",
-  "storeURL": "https://apps.apple.com/",
-  "updateMessage": "",
-  "notice": null
+  "notice": {
+    "id": "test-2026-07-11",
+    "title": "테스트 공지",
+    "message": "원격 공지 팝업 테스트입니다. 확인을 누르면 닫혀요."
+  }
 }
