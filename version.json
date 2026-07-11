@@ -1,3 +1,5 @@
 {
-  "minimumVersion": "0.0.0"
+  "minimumVersion": "2.0.0",
+  "storeURL": "https://apps.apple.com/",
+  "updateMessage": "강제 업데이트 테스트입니다. 최신 버전으로 업데이트해주세요."
 }
